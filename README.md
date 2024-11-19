@@ -7,10 +7,9 @@ My journey in development is fueled by a constant desire to learn and a commitme
 
 ### Frontend
 
-- **React**: Crafting interactive UIs with ease.
+- **Flutter**: Developing beautiful, natively compiled applications for mobile, web, and desktop.
 - **Alpine.js**: Bringing simplicity to JavaScript with reactive components.
 - **Tailwind CSS & Bootstrap**: Styling web applications with responsive and modern designs.
-- **Flutter**: Developing beautiful, natively compiled applications for mobile, web, and desktop.
 
 ### Backend
 
