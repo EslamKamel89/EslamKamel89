@@ -8,8 +8,9 @@ My journey in development is fueled by a constant desire to learn and a commitme
 ### Frontend
 
 - **Flutter**: Developing beautiful, natively compiled applications for mobile, web, and desktop.
-- **Alpine.js**: Bringing simplicity to JavaScript with reactive components.
-- **Tailwind CSS & Bootstrap**: Styling web applications with responsive and modern designs.
+- **Vue.js**: Building interactive and scalable user interfaces with modern reactive frameworks.
+- **Alpine.js**: Bringing simplicity to JavaScript with lightweight reactive components.
+- **Tailwind CSS & Bootstrap**: Crafting responsive and modern designs with utility-first CSS frameworks.
 
 ### Backend
 
@@ -36,6 +37,3 @@ Feel free to check out my repositories and get in touch if you'd like to collabo
 ---
 
 "Stay curious, keep building, and embrace the journey."
-
-
-
