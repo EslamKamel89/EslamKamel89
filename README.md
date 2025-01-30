@@ -25,7 +25,7 @@ My journey in development is fueled by a constant desire to learn and a commitme
 
 ## 🌱 Currently Learning
 
-I'm always eager to expand my skill set. Right now, I'm diving deeper into advanced React features and exploring the potential of serverless architectures.
+I'm always eager to expand my skill set. Right now, I'm diving deeper into advanced Vue js features and exploring the potential of serverless architectures.
 
 ## 🌐 Let's Connect
 
