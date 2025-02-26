@@ -27,14 +27,14 @@ My journey in development is fueled by a constant desire to learn and a commitme
 
 I'm always eager to expand my skill set. Right now, I'm diving deeper into advanced Vue js features and exploring the potential of serverless architectures.
 
+## 🚀 Additional Proficiencies
+
+- **Typing Speed:** 67 WPM (Certified by [Typing.com](https://www.typing.com/apiv1/student/tests/337123181/153104303/certificate?language=en))
+
 ## 🌐 Let's Connect
 
 - **GitHub**:   https://github.com/EslamKamel89
 - **LinkedIn**: https://www.linkedin.com/in/eslamkamel89/
-
-## 🚀 Additional Proficiencies
-
-- **Typing Speed:** 67 WPM (Certified by [Typing.com](https://www.typing.com/apiv1/student/tests/337123181/153104303/certificate?language=en))
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate or discuss tech. I'm always open to new opportunities and connections!
 
