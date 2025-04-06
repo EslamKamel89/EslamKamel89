@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Eslam Kamel
-👨‍💻 Full-Stack Developer | TALL Stack | VILT Stack | Flutter Enthusiast
+👨‍💻 Full-Stack Developer | Laravel, Livewire, Vue, Nuxt.js & Flutter Specialist | Innovating at Gaztec
 
 I'm a passionate Full Stack Developer with a diverse skill set and a knack for creating dynamic, responsive, and user-friendly web applications. 
 My journey in development is fueled by a constant desire to learn and a commitment to building innovative solutions.
