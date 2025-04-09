@@ -8,7 +8,6 @@ My journey in development is fueled by a constant desire to learn and a commitme
 
 ### Frontend
 
-- **Flutter**: Developing beautiful, natively compiled applications for mobile, web, and desktop.
 - **Vue.js**: Building interactive and scalable user interfaces using the Composition API and reactive components.
 - **Nuxt.js**: Creating full-featured Vue.js applications with built-in SSR, routing, and powerful developer experience.
 - **Flutter**: Developing beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
