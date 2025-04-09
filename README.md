@@ -9,14 +9,16 @@ My journey in development is fueled by a constant desire to learn and a commitme
 ### Frontend
 
 - **Flutter**: Developing beautiful, natively compiled applications for mobile, web, and desktop.
-- **Vue.js**: Building interactive and scalable user interfaces with modern reactive frameworks.
-- **Alpine.js**: Bringing simplicity to JavaScript with lightweight reactive components.
-- **Tailwind CSS & Bootstrap**: Crafting responsive and modern designs with utility-first CSS frameworks.
+- **Vue.js**: Building interactive and scalable user interfaces using the Composition API and reactive components.
+- **Nuxt.js**: Creating full-featured Vue.js applications with built-in SSR, routing, and powerful developer experience.
+- **Flutter**: Developing beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Alpine.js**: Enhancing UI interactivity with lightweight, declarative JavaScript.
+- **Tailwind CSS & Bootstrap**: Designing responsive and modern UIs using utility-first and component-based CSS frameworks.
 
 ### Backend
 
-- **Laravel**: Developing robust and scalable server-side applications.
-- **Livewire**: Building dynamic interfaces without leaving the comfort of Laravel.
+- **Laravel**: Developing robust, secure, and scalable server-side applications with elegant syntax and powerful tooling.
+- **Livewire**: Building reactive interfaces in Laravel without writing a single line of JavaScript.
 
 ## 🛠️ Tools and Practices
 
