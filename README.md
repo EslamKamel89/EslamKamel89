@@ -37,8 +37,6 @@ I'm always eager to expand my skill set. Right now, I'm diving deeper into advan
 - **Typing Speed:** 58 WPM in 3 page test (Certified by [Typing.com](https://www.typing.com/apiv1/student/tests/333678410/153104303/certificate?language=en-gb))
 
 ## 🌐 Let's Connect
-
-- **GitHub**:   https://github.com/EslamKamel89
 - **LinkedIn**: https://www.linkedin.com/in/eslamkamel89/
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate or discuss tech. I'm always open to new opportunities and connections!
