@@ -81,17 +81,84 @@ Also diving deep into **AWS services**—currently trying to understand why my c
 🔹 Accidentally created 17 Elastic Load Balancers (help)  
 🔸 "I'll just quickly check AWS docs" *(3 hours later)*  
 
-## 🚀 Additional Proficiencies
+## 🚀 Keyboard Ninja Skills ⌨️✨
 
-- **Typing Speed:** 67 WPM in 1 minute test (Certified by [Typing.com](https://www.typing.com/apiv1/student/tests/337123181/153104303/certificate?language=en))
-- **Typing Speed:** 64 WPM in 3 minute test (Certified by [Typing.com](https://www.typing.com/apiv1/student/tests/346309858/153104303/certificate?language=en))
-- **Typing Speed:** 64 WPM in 1 page test (Certified by [Typing.com](https://www.typing.com/apiv1/student/tests/354778698/153104303/certificate?language=en))
-- **Typing Speed:** 58 WPM in 3 page test (Certified by [Typing.com](https://www.typing.com/apiv1/student/tests/333678410/153104303/certificate?language=en-gb))
+```javascript
+const typingStats = {
+  wpm: {
+    burstMode: "67 WPM (1 min)",   // When caffeine hits just right
+    sustained: "64 WPM (3 min)",   // "I'm in the zone" speed
+    documentation: "64 WPM (1 page)", // Writing docs under duress
+    endurance: "58 WPM (3 pages)"   // The coding marathon mode
+  },
+  certifications: "Officially Certified by Typing.com",
+  specialSkills: [
+    "Blind-typing `git commit -m 'fix'`",
+    "Simultaneous coding + Stack Overflow browsing",
+    "Writing API docs faster than the API actually works"
+  ],
+  commonTypos: {
+    mostFrequent: "fucntion",      // The classic
+    runnerUps: [
+      "retrun",
+      "lenght",
+      "recieve",
+      "defualt",
+      "Larvel" // (Sorry Taylor)
+    ],
+    autoCorrectHatesMe: true
+  }
+};
 
-## 🌐 Let's Connect
+console.warn("Warning: May occasionally type 'slack' instead of 'stack'");
+```
+
+**My Typing Superpowers:**
+⚡ Can out-type IDE autocomplete (most of the time)  
+⚡ Certified keyboard warrior since [Typing.com] said so  
+⚡ Once debugged an entire app during a single `npm install`  
+
+**Most Common Typos Hall of Shame:**
+🏆 `fucntion` - The undisputed champion  
+🥈 `retrun` - Because sometimes I'm in a hurry  
+🥉 `Larvel` - My deepest apology to Mr. Otwell  
+
+**Bonus Fact:**  
+My keyboard's most worn keys are:  
+`Ctrl`, `C`, `V`, and the backspace key (for obvious reasons)
+
+
+## 🤝 Let's Connect (Or At Least Judge My Code Together)
 - **LinkedIn**: https://www.linkedin.com/in/eslamkamel89/
 
-Feel free to check out my repositories and get in touch if you'd like to collaborate or discuss tech. I'm always open to new opportunities and connections!
+```javascript
+if (you.likeMyCode) {
+  console.log("Let's build something awesome!");
+  await you.sendMessage();
+} else {
+  console.log("I accept constructive criticism... and job offers");
+}
+
+// Warning: May respond faster to messages containing:
+// - "Let's collaborate"
+// - "Here's a cool project idea"
+// - "Free coffee included"
+```
+
+**Why reach out?**  
+☕ I bring **coffee-fueled coding sessions** to any collaboration  
+🐛 I'll **pretend your bugs are features** (professional courtesy)  
+🚀 Together we can make **"it works on my machine"** a universal truth  
+
+**GitHub Browsing Tips:**  
+⭐ Star my repos if you're feeling generous  
+😱 Open issues if you find something terrifying  
+💌 DM me if you want to:  
+   - Talk tech  
+   - Start a project  
+   - Complain about JavaScript together  
+
+*P.S. If you mention "Laravel puns" in your message, response time drops to 0.2s ⚡*
 
 ---
 
