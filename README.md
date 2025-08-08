@@ -33,7 +33,7 @@ I'm always eager to expand my skill set. Right now, I'm diving deeper into advan
 
 - **Typing Speed:** 67 WPM in 1 minute test (Certified by [Typing.com](https://www.typing.com/apiv1/student/tests/337123181/153104303/certificate?language=en))
 - **Typing Speed:** 64 WPM in 3 minute test (Certified by [Typing.com](https://www.typing.com/apiv1/student/tests/346309858/153104303/certificate?language=en))
-- **Typing Speed:** 62 WPM in 1 page test (Certified by [Typing.com](https://www.typing.com/apiv1/student/tests/345995167/153104303/certificate?language=en))
+- **Typing Speed:** 64 WPM in 1 page test (Certified by [Typing.com](https://www.typing.com/apiv1/student/tests/354778698/153104303/certificate?language=en))
 - **Typing Speed:** 58 WPM in 3 page test (Certified by [Typing.com](https://www.typing.com/apiv1/student/tests/333678410/153104303/certificate?language=en-gb))
 
 ## 🌐 Let's Connect
