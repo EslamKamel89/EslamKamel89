@@ -1,139 +1,112 @@
 
 # **👋 Hi, I’m Eslam Kamel**  
-*(AKA: The Human `npm install` for All Your Dev Needs)*  
+*(Now transitioning from PHP sorcerer to Python backend wizard 🐍)*  
 
-```javascript
-const mySkills = {
-  role: "Full-Stack Developer",
-  specialties: ["Laravel", "Livewire", "Vue", "Nuxt.js", "Flutter"],
-  currentJob: "Innovating at Gaztec", // (Mostly just fighting with Docker)
-  superpower: "Turning caffeine into clean(ish) code",
-  testingStrategy: "Works on my machine™"
-};
+```python
+class EslamKamel:
+    def __init__(self):
+        self.role = "Backend Developer"
+        self.specialties = ["Python", "Django", "FastAPI", "Docker"]
+        self.learning_track = "AI/ML (slow but steady)"
+        self.current_job = "Building APIs & breaking things (sometimes intentionally)"
+        self.superpower = "Turning caffeine into async endpoints"
+        self.motto = "If it runs, ship it. If it fails, containerize it."
+    
+    def say_hi(self):
+        print("Hire me? (async of course)")
 
-// TODO: Update this bio  
-// FIXME: Add more puns  
-console.log("Hire me?"); // Please?  
+EslamKamel().say_hi()
+````
 
-// Warning: May overuse emojis in commit messages 🚀🔥
+---
+
+## **👨‍💻 About Me**
+
+I’m a **Python backend developer** with a full-stack background (Laravel, Vue, Flutter) — now diving deep into **Django** and **FastAPI** for scalable, production-grade APIs.
+
+I love building systems that are:
+
+* **Clean:** typed, tested, documented
+* **Performant:** async-ready, containerized
+* **Human-friendly:** clear structure, meaningful logs, readable code
+
+**Currently exploring:** how to blend **Python backends + AI/ML** to build smarter, data-driven products — one Jupyter cell at a time.
+
+---
+
+## **🚀 Why You'll Enjoy Working With Me**
+
+✔️ Django apps with DRF, Celery, Redis, and PostgreSQL — battle-tested
+✔️ FastAPI endpoints that *actually* feel fast
+✔️ Docker setups so portable they could run on a toaster
+✔️ CI/CD pipelines that keep production calm and predictable
+
+**Fun facts:**
+🐧 I talk to my containers when they misbehave
+🐍 I’m not saying Python is better… but my `__repr__()` says it is
+☕ I treat caffeine as infrastructure
+
+---
+
+## **🛠️ Tech Stack 2025**
+
+### **Python Backend**
+
+* **FastAPI** – async APIs, Pydantic models, OAuth2, SQLAlchemy
+* **Django + DRF** – robust admin, ORM, Celery, Redis, PostgreSQL
+* **Pytest** – testing with fixtures and coverage
+* **Docker + Docker Compose** – full dev environments
+* **Gunicorn + Nginx** – production serving
+
+### **Legacy & Frontend Superpowers**
+
+* **Laravel + Livewire + Vue/Nuxt.js** – still part of my daily toolkit
+* **Flutter** – mobile apps on Play Store & App Store
+* **Tailwind CSS** – because UI should look good even for APIs (docs count as UI, right?)
+
+---
+
+## **📚 Learning & Growth**
+
+I’m currently pursuing a **2-year AI/ML learning plan (2024–2026)** —
+~6 months completed so far.
+
+Focus areas:
+
+* Machine Learning (Scikit-learn, Pandas, NumPy)
+* NLP and RAG (Hugging Face, LangChain)
+* Deployment (FastAPI, Docker, AWS)
+
+🧠 Goal: transition from “backend dev” to “AI-ready backend engineer.”
+
+---
+
+## **🐳 DevOps & Tools**
+
+* **GitHub Actions** – test → build → deploy
+* **AWS (EC2, ECS, S3, Route53)** – still wondering why it costs more than my coffee budget
+* **Postman / pytest / curl** – for poking APIs until they behave
+
+---
+
+## **🤝 Let’s Connect**
+
+```python
+if you.like_my_code:
+    print("Let’s build something awesome together!")
+else:
+    print("Feedback also welcome — I’ll log it and retry.")
 ```
 
----
+**Links:**
+🔗 [Portfolio](https://islamdev.com)
+💼 [LinkedIn](https://www.linkedin.com/in/eslamkamel89/)
+💻 [GitHub](https://github.com/EslamKamel89)
 
-## **👨‍💻 About Me**  
-*(AKA "Why You Should Keep Reading")*  
-
-I'm a **Full Stack Developer** who's *passionate* about turning caffeine into code and dreams into **404-free** web apps. 🚀  
-
-By day, I craft **dynamic, user-friendly interfaces** so smooth, they make butter jealous. 🧈  
-By night, I battle backend bugs like a debugger-wielding superhero. *(Spoiler: Sometimes the bugs win.)* 🐞💥  
-
-**Fueled by:**  
-☕ Coffee  
-💡 Endless curiosity  
-😅 The occasional existential crisis when `git merge` goes wrong  
-
-**Life motto:** *"If at first you don't succeed, `CTRL + Z` and pretend it never happened."*  
+**Bonus:** I also build and publish **Flutter apps** 
 
 ---
 
-## **🚀 Why You'll Love Working With Me**  
-✔️ **Laravel Artisan commands** flow from my fingertips like Shakespearean sonnets  
-✔️ I **Vue-tifully** architect frontends (sorry, had to)  
-✔️ My **Flutter apps** are so smooth, they make butter jealous 🧈  
+*P.S. Still refactoring my sleep schedule into async tasks.*
 
-**Current Status:**  
-🔹 `git push --force`-ing my way through life  
-🔹 Debugging my sleep schedule (segmentation fault)  
-🔹 10/10 would `CTRL + S` again  
 
----
-
-## **🛠️ Skills & Technologies**  
-*(AKA My Dev Superpowers)*  
-
-### **Frontend Wizardry** 🧙‍♂️  
-- **Vue.js**: Making components so reactive, they practically high-five you when data changes  
-- **Nuxt.js**: SSR magic that makes Google happy and my apps *blazing fast*  
-- **Flutter**: "Write once, run everywhere" (except when it doesn't... but hey, *most of the time*)  
-- **Alpine.js**: When I need interactivity but don't want to summon the *JavaScript Overlords*  
-- **Tailwind CSS & Bootstrap**: Because sometimes I *design like Picasso*, and other times I *Ctrl+C/Ctrl+V*  
-
-### **Backend Sorcery** 🔮  
-- **Laravel**: Writing PHP that doesn't make me cry—elegant syntax and powerful tools  
-- **Livewire**: Building reactive UIs without touching JavaScript (*"Wait, I can do that?!"*)  
-
----
-
-## **⚙️ Tools & Practices**  
-*(Or: "How I Keep My Code From Burning Down")*  
-
-- **Version Control**:  
-  Git & GitHub – because *"but it worked on my machine!"* is not an acceptable excuse  
-  *(Commit messages range from "Fixed bug" to "Please work I beg you")* 🙏  
-
-- **CI/CD**:  
-  Automating deployments so I don't have to manually drag-and-drop files like it's 1999  
-  *(If the pipeline fails, I pretend it's a "learning opportunity")* 🚀🔧  
-
-- **Testing**:  
-  Writing tests so my future self doesn't curse my past self  
-  *"It's not paranoia if the code actually breaks in prod"*  
-
----
-
-## **🐳 Currently Learning**  
-I'm on a mission to containerize my life with **Docker**—because if it works on my machine, it should work everywhere, right?  
-
-Also diving deep into **AWS services**—currently trying to understand why my cloud bill is higher than my grocery budget.  
-
-*Current Status:*  
-🔹 Successfully ran `docker run hello-world` (nailed it!)  
-🔹 Accidentally created 17 Elastic Load Balancers (help)  
-🔸 "I'll just quickly check AWS docs" *(3 hours later)*  
-
----
-
-## **⌨️ Keyboard Ninja Skills**  
-
-```javascript
-const typingStats = {
-  wpm: {
-    burstMode: "67 WPM (1 min)",   // When caffeine hits just right
-    sustained: "64 WPM (3 min)",   // "I'm in the zone" speed
-    documentation: "64 WPM (1 page)", // Writing docs under duress
-    endurance: "58 WPM (3 pages)"   // The coding marathon mode
-  },
-  commonTypos: {
-    mostFrequent: "fucntion",      // The classic
-    runnerUps: ["retrun", "lenght", "recieve", "defualt", "Larvel"]
-  }
-};
-```
-
-**Most Common Typos Hall of Shame:**  
-🏆 `fucntion` - The undisputed champion  
-🥈 `retrun` - Because sometimes I'm in a hurry  
-🥉 `Larvel` - My deepest apology to Mr. Otwell  
-
----
-
-## **🤝 Let's Connect**  
-
-```javascript
-if (you.likeMyCode) {
-  console.log("Let's build something awesome!");
-  await you.sendMessage();
-} else {
-  console.log("I accept constructive criticism... and job offers");
-}
-```
-
-**Find me on:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/eslamkamel89/)  
-
-**Why reach out?**  
-☕ I bring **coffee-fueled coding sessions** to any collaboration  
-🐛 I'll **pretend your bugs are features** (professional courtesy)  
-
-*P.S. If you mention "Laravel puns", response time drops to 0.2s ⚡*
