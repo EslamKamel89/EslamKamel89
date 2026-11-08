@@ -153,9 +153,9 @@ Of course. Let’s meet its twelve undocumented business rules first.
 ### 🐍 I write code. The snake eats the evidence.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EslamKamel89/EslamKamel89/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EslamKamel89/EslamKamel89/output/github-contribution-grid-snake.svg" />
-  <img alt="A snake eats the squares of Eslam Kamel's GitHub contribution calendar, generated from real contribution data." src="https://raw.githubusercontent.com/EslamKamel89/EslamKamel89/output/github-contribution-grid-snake.svg" width="900" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EslamKamel89/EslamKamel89/output/github-contribution-grid-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EslamKamel89/EslamKamel89/output/github-contribution-grid-snake.svg?v=1" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/EslamKamel89/EslamKamel89/output/github-contribution-grid-snake.svg?v=1" width="900" />
 </picture>
 
 *An entire year of contributions. One very hungry code reviewer. Zero respect for my green squares.*
