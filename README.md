@@ -150,6 +150,20 @@ Of course. Let’s meet its twelve undocumented business rules first.
 
 <div align="center">
 
+### 🐍 I write code. The snake eats the evidence.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EslamKamel89/EslamKamel89/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EslamKamel89/EslamKamel89/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eats the squares of Eslam Kamel's GitHub contribution calendar, generated from real contribution data." src="https://raw.githubusercontent.com/EslamKamel89/EslamKamel89/output/github-contribution-grid-snake.svg" width="900" />
+</picture>
+
+*An entire year of contributions. One very hungry code reviewer. Zero respect for my green squares.*
+
+<sub>Generated from my GitHub contribution calendar with <a href="https://github.com/Platane/snk">Platane/snk</a> and refreshed daily by <a href="https://github.com/EslamKamel89/EslamKamel89/actions/workflows/contribution-snake.yml">GitHub Actions</a>. The snake has a better meal schedule than I do.</sub>
+
+<!-- Animation assets are published to the output branch on the first workflow run after pushing the workflow to main. To refresh manually: Actions → Feed the contribution snake → Run workflow. -->
+
 ![GitHub contribution streak](https://streak-stats.demolab.com?user=EslamKamel89&theme=transparent&hide_border=true)
 
 *Commits are activity, not a personality test. Some of my best work is deleting code.*
