@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hey, I'm Eslam Kamel 👋
@@ -87,6 +86,12 @@ class EslamKamel:
 
 ## 🏗️ How I approach engineering
 
+<div align="center">
+
+![Animated engineering workflow](assets/build-test-ship.gif)
+
+</div>
+
 - **Start with the domain.** Understand the business rules before designing tables or endpoints.
 - **Design explicit contracts.** Make inputs, outputs, side effects, and failure modes predictable.
 - **Keep architecture practical.** Prefer clear boundaries over abstractions that exist only to impress diagrams.
@@ -99,11 +104,9 @@ class EslamKamel:
 
 ![GitHub contribution streak](https://streak-stats.demolab.com?user=EslamKamel89&theme=transparent&hide_border=true)
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EslamKamel89&theme=github-compact&hide_border=true)
-
 </div>
 
-<sub>These visualizations update automatically through third-party services. GitHub and image caching may delay updates.</sub>
+<sub>The contribution streak is provided by a third-party service and may occasionally be unavailable.</sub>
 
 ## 🌱 Currently exploring
 
