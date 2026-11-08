@@ -99,7 +99,7 @@ class EslamKamel:
 
 ![GitHub contribution streak](https://streak-stats.demolab.com?user=EslamKamel89&theme=transparent&hide_border=true)
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EslamKamel89&theme=github-compact&hide_border=true&area=true)
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EslamKamel89&theme=github-compact&hide_border=true)
 
 </div>
 
